@@ -3,3 +3,4 @@ Grafana
 helm chart 1.3.0
 kubernetes
 AWS
+GCP
